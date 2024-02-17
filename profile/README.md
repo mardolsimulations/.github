@@ -5,6 +5,11 @@
 
 🚀 On the way to create community of Russian flight simulator add-on developers
 
+# Current work
+**The projects we are working on right now**
+
+1. [FSPax 2.0 — play informative voiceovers of flight attendants during the flight](https://github.com/orgs/mardolsimulations/projects/1)
+
 # Social media
 **Our main social media resources, where we post our news**
 
