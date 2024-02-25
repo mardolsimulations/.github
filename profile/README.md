@@ -19,4 +19,5 @@
 **Вы можете стать частью нашей команды, написав https://vk.com/uw935**
 
 🏆 Основатель / Software engineer [@uw935](https://github.com/uw935/)
+
 💻 Software engineer [@exituser](https://github.com/exituser)
